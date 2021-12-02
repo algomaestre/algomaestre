@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @algomaestre
+- 👋 Hi, I’m @degirmenciaf, a brand new set of hands in the software field.
 - 👀 I’m interested in Blockchain, AI, Machine Learning and Deep Learning 
 - 🌱 I’m currently learning JavaScript, Python, PHP
 - 💞️ I’m looking to collaborate on Machine Learning and Blockchain projects
